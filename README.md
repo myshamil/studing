@@ -1,1 +1,1 @@
-# studing
+# studying
