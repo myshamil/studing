@@ -5,4 +5,5 @@
 -3주차 : 시각화 연습  
 -4주차 : 타이타닉 스코어 올리기https://www.kaggle.com/c/titanic/overview    
     https://www.kaggle.com/c/titanic/discussion/57447  
-    https://www.ahmedbesbes.com/blog/kaggle-titanic-competition
+    https://www.ahmedbesbes.com/blog/kaggle-titanic-competition  
+-5주차 :
